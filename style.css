@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #000000;
+}
+
+h1{
+    color: pink;
+    font-size: 35px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    padding: 10px;
+    background-color: pink;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#resultado{
+    margin-top: 20px;
+    color: pink;
+    font-size: 18px;
+}
